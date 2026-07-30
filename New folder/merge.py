@@ -29,4 +29,4 @@ def merge(left, right):
     return result 
 
 arr = [38, 27, 43, 3, 9, 82, 10]
-print(merge_sort(arr))
+print(merge_sort(arr)) 
